@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cSharpLists/bin/Debug/netcoreapp3.1/cSharpLists.deps.json
+/Users/codenation/Desktop/cSharpLists/bin/Debug/netcoreapp3.1/cSharpLists.runtimeconfig.json
+/Users/codenation/Desktop/cSharpLists/bin/Debug/netcoreapp3.1/cSharpLists.runtimeconfig.dev.json
+/Users/codenation/Desktop/cSharpLists/bin/Debug/netcoreapp3.1/cSharpLists.dll
+/Users/codenation/Desktop/cSharpLists/bin/Debug/netcoreapp3.1/cSharpLists.pdb
+/Users/codenation/Desktop/cSharpLists/obj/Debug/netcoreapp3.1/cSharpLists.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cSharpLists/obj/Debug/netcoreapp3.1/cSharpLists.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cSharpLists/obj/Debug/netcoreapp3.1/cSharpLists.AssemblyInfo.cs
+/Users/codenation/Desktop/cSharpLists/obj/Debug/netcoreapp3.1/cSharpLists.dll
+/Users/codenation/Desktop/cSharpLists/obj/Debug/netcoreapp3.1/cSharpLists.pdb
